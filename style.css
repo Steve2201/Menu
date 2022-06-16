@@ -1,5 +1,6 @@
 nav {    
 	display: flex;
+	background_color: red;
 	height: 100px;
 	justify-content: center;
 	align-items: center;
